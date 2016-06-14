@@ -1,0 +1,5 @@
+D:\projects\Rebuild Nation\ca2\ca2\bin\Debug\ca2.exe.config
+D:\projects\Rebuild Nation\ca2\ca2\bin\Debug\ca2.exe
+D:\projects\Rebuild Nation\ca2\ca2\bin\Debug\ca2.pdb
+D:\projects\Rebuild Nation\ca2\ca2\obj\Debug\ca2.exe
+D:\projects\Rebuild Nation\ca2\ca2\obj\Debug\ca2.pdb
